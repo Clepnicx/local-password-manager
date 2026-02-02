@@ -240,7 +240,7 @@ def list_accounts():
             pass
         else:
             print(f"- {i}")
-    print("############################")
+    print("\n############################")
 
     shelf.close()
 
