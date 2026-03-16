@@ -54,7 +54,7 @@ class MasterPassword:
         password_provided = input("Create the new Master-Password: ")
 
         while True:
-            confirmation = input(f"Are you shure you want to use the Master-Password: {password_provided} (J/n): ")
+            confirmation = input(f"Are you shure you want to use the Master-Password: {password_provided} (Y/n): ")
             try:
                 if confirmation in ["J", "j", "y", "Y"]:
                     break
