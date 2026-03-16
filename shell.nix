@@ -16,5 +16,4 @@ mkShell {
   buildInputs = [
     python-pkgs
   ];
-  shellHook = "";
 }
