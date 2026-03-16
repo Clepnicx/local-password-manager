@@ -1,6 +1,6 @@
 # Local Password Manager
 
-A simple command-line password manager that stores your passwords encrypted on your computer.
+A simple command-line password manager that stores your passwords encrypted in a python shelve.
 
 ## Quick Start
 
